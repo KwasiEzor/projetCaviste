@@ -37,3 +37,8 @@ body{
     -o-background-size: cover;
     background-size: cover;
   }
+/** search area**/
+#btSearch{
+    background-color: #8F1E1E !important;
+    color: #fff !important;
+}
